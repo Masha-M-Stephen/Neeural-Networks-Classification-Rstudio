@@ -1,16 +1,3 @@
----
-title: "Nueral Networks"
-author: "Masha"
-date: "6/1/2020"
-output:  
-   md_document:
-    variant: markdown_github
----
-
-# Neeural-Networks-Classification-Rstudio
-Classification of Satellite Image Data
-
-
 Description from UCI Machine Learning database: The database consists of
 the multi-spectral values of pixels in 3x3 neighborhoods in a satellite
 image, and the classification associated with the central pixel in each
@@ -41714,4 +41701,3 @@ misclassification rates for the training set at 0.0789 and a 0.148
 misclassification rate on the testing set. The models with a higher or
 lower than size 8 had a larger misclassification rate compared to my
 final model.
- 
